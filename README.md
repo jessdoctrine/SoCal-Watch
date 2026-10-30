@@ -1,4 +1,4 @@
-# SoCal-Watch
+# Watch
 
 A camera watch app that documents and maps local government officials, law enforcement, and civic accountability resources for Southern California communities.
 
